@@ -1,0 +1,39 @@
+video { 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    transform: translateX(-50%) translateY(-50%);
+
+}
+h1{
+    border:2px solid red;
+    width:450px;
+        margin:0 auto;
+    margin-top: 300px;
+    padding:20px;
+    font-family: 'Pacifico', cursive;
+    font-size: 2.5em;
+    border-radius: 25px
+        
+}
+p{
+    border:2px solid red;
+ padding:20px;
+    width:500px;
+        margin:0 auto;
+    font-family: 'Anton', sans-serif;
+    border-radius: 25px
+}
+a{
+    margin-left: 625px;
+    
+    margin-top: 50px;
+    font-size:1.4em;
+    color:#140F5A
+}
